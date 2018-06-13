@@ -1,0 +1,4 @@
+query HelloQueries{
+  hello,
+  xinChao(name:"Nam"),
+}

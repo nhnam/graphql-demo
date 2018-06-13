@@ -1,0 +1,3 @@
+query Demo($name:String) {
+  xinChao(name:$name)
+}
